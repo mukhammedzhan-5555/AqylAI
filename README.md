@@ -1,0 +1,2 @@
+# AqylAI
+My first project
